@@ -18,8 +18,7 @@
 
 
 ## 2. MARCO TEÓRICO 
-
-
+Marco teorico:david
 ## 3. EXPLICACIÓN
 
 ***3.1 Material y equipo requerido***
