@@ -1,1 +1,44 @@
-# Unidad-2_Informe_laboratorio_1
+![image](https://user-images.githubusercontent.com/85728185/122873688-b1ff8480-d2f7-11eb-8db4-6c559deb9572.png)
+
+# SUPERPOSICION
+
+### Fundamento de circuitos electricos
+### Ingeniero  Darwin Omar Alulema Flores
+
+### Integrantes: Erick Maisincho, Danilo Taco, David Vasquez
+#
+
+## 1. OBJETIVOS
+
+***Objetivo general de la practica***
+
+
+***Objetivos especificos***
+
+
+
+## 2. MARCO TEÓRICO 
+
+
+## 3. EXPLICACIÓN
+
+***3.1 Material y equipo requerido***
+
+
+**3.2 PROCEDIMIENTO**
+
+
+### PLANTEAMIENTO DE ECUACIONES
+
+
+## 4. RESULTADOS
+
+***Calculo  de error**
+
+## 5. VIDEO
+
+
+
+## 6. CONCLUSIONES
+
+## 7. BIBLIOGRAFÍA 
