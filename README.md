@@ -25,6 +25,8 @@ Marco teorico:david
 
 ***3.1 Material y equipo requerido***
 
+![image](https://user-images.githubusercontent.com/85259801/125874494-e5c47a45-8d5a-419b-9e12-74c3b6836b6e.png)
+
 
 **3.2 PROCEDIMIENTO**
 
