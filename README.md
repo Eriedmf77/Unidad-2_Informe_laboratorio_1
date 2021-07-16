@@ -114,7 +114,9 @@ conclusiones._
 
 ## 4. RESULTADOS
 
-***Calculo  de error**
+**Calculo  de error**
+
+
 
 ## 5. VIDEO
 
