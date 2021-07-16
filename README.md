@@ -17,6 +17,11 @@ _Comprobar experimentalmente el Teorema de Superposición._
 
 ***Objetivos especificos***
 
+_Identificar conceptos fundamentales para llevar a cabo el teorema de superposición con eficacia._
+
+_Demostrar como el teorema de superposición es importante al momento de la resolucion de circuitos con más de una fuente de voltaje._
+
+_Resolver el problema propuesto, y evaluar los valores resultantes en la tabla._
 
 
 ## 2. MARCO TEÓRICO 
