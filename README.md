@@ -56,6 +56,7 @@ _3.2.4 Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y 
 IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
 proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente._
 
+![image](https://user-images.githubusercontent.com/85259801/125899801-320370c5-05f8-4004-8720-e102485a636f.png)
 
 
 _Tabla 3.1 Medición de voltaje aplicando superposición._
