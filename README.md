@@ -105,6 +105,11 @@ _Elimino voltaje de 12V_
 
 ![image](https://user-images.githubusercontent.com/85259801/125957973-b05b6509-e172-4414-aac8-22db1bb73ac7.png)
 
+_3.5.6. Verifique el cumplimiento del Teorema de Superposición y compare los
+resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus
+conclusiones._
+
+![image](https://user-images.githubusercontent.com/85259801/125962898-1fcf0604-878d-4e63-9bd9-7d4df0aed2b9.png)
 
 
 ## 4. RESULTADOS
