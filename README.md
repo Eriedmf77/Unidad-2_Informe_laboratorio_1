@@ -51,14 +51,13 @@ _3.2.3 Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y 
 IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
 proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente._
 
-![image](https://user-images.githubusercontent.com/85259801/125899633-73308937-7400-4fe2-bf31-a0ab2eb6faa3.png)
-
+![image](https://user-images.githubusercontent.com/85259801/125904098-e576734a-e879-4dea-9cf2-d2ad023cd950.png)
 
 _3.2.4 Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente
 IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
 proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente._
 
-![image](https://user-images.githubusercontent.com/85259801/125899801-320370c5-05f8-4004-8720-e102485a636f.png)
+![image](https://user-images.githubusercontent.com/85259801/125904246-f220d8aa-44f5-4136-8abf-c16f37aef593.png)
 
 
 _Tabla 3.1 Medición de voltaje aplicando superposición._
