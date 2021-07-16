@@ -114,7 +114,7 @@ conclusiones._
 
 ## 4. RESULTADOS
 
-**Calculo  de error**
+*Cálculo  de error*
 
 
 
