@@ -112,9 +112,7 @@ conclusiones._
 ![image](https://user-images.githubusercontent.com/85259801/125962898-1fcf0604-878d-4e63-9bd9-7d4df0aed2b9.png)
 
 
-## 4. RESULTADOS
-
-*Cálculo  de error*
+## 4. RESPUESTAS Y CÁLCULO DE ERROR
 
 
 
