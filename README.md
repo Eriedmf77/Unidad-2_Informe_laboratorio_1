@@ -12,7 +12,7 @@
 
 ***Objetivo general de la practica***
 
-_Comprobar experimentalmente el Teorema de Superposición._
+_Analizar y determinar experimentalmente el Teorema de Superposición para calcular las corriente y voltajes que pasa por el circuito.._
 
 
 ***Objetivos especificos***
@@ -23,6 +23,7 @@ _Demostrar como el teorema de superposición es importante al momento de la reso
 
 _Resolver el problema propuesto, y evaluar los valores resultantes en la tabla._
 
+_Utilizar correctamente el sentido del cálculo una vez eliminado la fuente de voltaje_
 
 ## 2. MARCO TEÓRICO 
 
