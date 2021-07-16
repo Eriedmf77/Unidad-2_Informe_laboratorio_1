@@ -137,6 +137,10 @@ https://www.youtube.com/watch?v=mX9501RX5Rc
 
 ## 6. CONCLUSIONES
 
+_El teorema de superposición no ayuda a simplificar un circuito complejo seri – paralelo a uno mas simple para el cálculo del mismo teniendo en cuenta para que fuente de voltaje se está realizando el cálculo, es decir, se elimina una fuente de voltaje o corriente donde este se cortocircuitara o se abrirá,  eliminando así una fuente y calculando solo con la disponible, después se realiza el mismo procedimiento pero para la otra fuente y así mismo eliminando la otra fuente de corriente o voltaje._
+
+_Como sabemos el teorema de superposición es una forma mas sencilla para calcular voltajes y corrientes que pasa por un cierto resistor._
+
 ## 7. BIBLIOGRAFÍA 
 
 _Electrónica Unicrom. (2020, 3 julio). Teorema de superposición. https://unicrom.com/teorema-de-superposicion/_
