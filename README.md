@@ -12,6 +12,8 @@
 
 ***Objetivo general de la practica***
 
+_Comprobar experimentalmente el Teorema de Superposición._
+
 
 ***Objetivos especificos***
 
