@@ -69,14 +69,43 @@ _Tabla 3.2 Medición de corriente aplicando superposición._
 ![image](https://user-images.githubusercontent.com/85259801/125874986-f3bdee29-a147-4e90-ad20-5d19c00030db.png)
 
 
-
-
-
 ### PLANTEAMIENTO DE ECUACIONES
 
 _3.2.5. Verifique el cumplimiento del Teorema de Superposición y compare los
 resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus
 conclusiones._
+
+_Elimino voltaje de 20V_
+
+![image](https://user-images.githubusercontent.com/85259801/125957247-21cf2eab-5bda-44d2-ae99-dcf24f85fe29.png)
+
+![image](https://user-images.githubusercontent.com/85259801/125957287-42ee2a6b-2c9d-4fa8-a840-1261e6423461.png)
+
+![image](https://user-images.githubusercontent.com/85259801/125957317-d3073f46-9abd-4f51-bf6d-46788e35981b.png)
+
+_Intensidad total_
+
+![image](https://user-images.githubusercontent.com/85259801/125957376-8edbcbc9-9b92-4385-a251-806cab1a8e77.png)
+
+![image](https://user-images.githubusercontent.com/85259801/125957411-1068d573-adce-43b4-8cbb-1a81284e10fc.png)
+
+![image](https://user-images.githubusercontent.com/85259801/125957514-e728ee83-9fb2-475b-998f-b8e63b4039d0.png)
+
+_Elimino voltaje de 12V_
+
+![image](https://user-images.githubusercontent.com/85259801/125957817-ece419ad-52e2-4c93-8a32-0a35328c7a00.png)
+
+![image](https://user-images.githubusercontent.com/85259801/125957848-e5abbaa2-8893-4f8f-8f45-6c37600edb7d.png)
+
+![image](https://user-images.githubusercontent.com/85259801/125957872-f6ab56f6-1a29-40b0-b2f2-e1888dc3dffb.png)
+
+![image](https://user-images.githubusercontent.com/85259801/125957902-48aa0e31-4a99-47f7-b0b3-df835889589d.png)
+
+![image](https://user-images.githubusercontent.com/85259801/125957922-ab388d47-f6ed-4459-9e4a-f3ad66032d29.png)
+
+![image](https://user-images.githubusercontent.com/85259801/125957973-b05b6509-e172-4414-aac8-22db1bb73ac7.png)
+
+
 
 ## 4. RESULTADOS
 
