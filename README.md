@@ -34,7 +34,9 @@ _Comprobar experimentalmente el Teorema de Superposición._
 
 _3.2.1 Arme el siguiente circuito que se muestra en la figura 3.1_
 
-![image](https://user-images.githubusercontent.com/85259801/125874582-3f35c5d8-a1e4-4b0b-922b-1fe97c6db8a9.png)
+![image](https://user-images.githubusercontent.com/85259801/125898541-3b1575ef-98ce-4150-8a73-b7cfe84d0b86.png)
+
+
 
 _3.2.2 Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando
 tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote
@@ -42,7 +44,7 @@ el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente._
 
 _Voltaje en VA_
 
-![image](https://user-images.githubusercontent.com/85259801/125898541-3b1575ef-98ce-4150-8a73-b7cfe84d0b86.png)
+![image](https://user-images.githubusercontent.com/85259801/125874582-3f35c5d8-a1e4-4b0b-922b-1fe97c6db8a9.png)
 
 
 _3.2.3 Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente
