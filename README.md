@@ -62,11 +62,13 @@ proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivam
 
 _Tabla 3.1 Medición de voltaje aplicando superposición._
 
-![image](https://user-images.githubusercontent.com/85259801/125874896-3854429c-1d42-4c8e-8cae-017abb3466e3.png)
+![image](https://user-images.githubusercontent.com/85259801/125965051-2179246b-d499-4acf-b71e-c949d1e18db6.png)
+
 
 _Tabla 3.2 Medición de corriente aplicando superposición._
 
-![image](https://user-images.githubusercontent.com/85259801/125874986-f3bdee29-a147-4e90-ad20-5d19c00030db.png)
+![image](https://user-images.githubusercontent.com/85259801/125965133-8bf4e65c-21a8-4113-81f9-f17ba61c67b0.png)
+
 
 
 ### PLANTEAMIENTO DE ECUACIONES
