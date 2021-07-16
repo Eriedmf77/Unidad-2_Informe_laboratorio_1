@@ -49,6 +49,7 @@ _3.2.3 Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y 
 IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
 proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente._
 
+![image](https://user-images.githubusercontent.com/85259801/125899633-73308937-7400-4fe2-bf31-a0ab2eb6faa3.png)
 
 
 _3.2.4 Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente
