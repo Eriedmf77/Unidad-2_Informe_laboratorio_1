@@ -121,6 +121,14 @@ conclusiones._
 
 ## 4. RESPUESTAS Y CÁLCULO DE ERROR
 
+![image](https://user-images.githubusercontent.com/85259801/125981341-df0904c1-b355-4a30-9128-e91ff14d5662.png)
+
+![image](https://user-images.githubusercontent.com/85259801/125981356-638ada76-b2e0-4039-a904-7088ce4711f8.png)
+
+![image](https://user-images.githubusercontent.com/85259801/125981379-764f30d7-d241-40d2-801c-86bdfd9a54e5.png)
+
+![image](https://user-images.githubusercontent.com/85259801/125981398-2940f081-b852-4def-9c48-4cd2304b770b.png)
+
 
 
 ## 5. VIDEO
