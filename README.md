@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/85728185/122873688-b1ff8480-d2f7-11eb-8db4-6c559deb9572.png)
 
-# SUPERPOSICION
+# TEOREMA DE SUPERPOSICIÓN SUPERPOSICION
 
 ### Fundamento de circuitos electricos
 ### Ingeniero  Darwin Omar Alulema Flores
