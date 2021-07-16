@@ -20,7 +20,9 @@ _Comprobar experimentalmente el Teorema de Superposición._
 
 
 ## 2. MARCO TEÓRICO 
-Marco teorico:david
+
+![image](https://user-images.githubusercontent.com/84418933/125886098-1f10f1ed-f539-4b0f-a6ad-93e317228524.png)
+
 ## 3. EXPLICACIÓN
 
 ***3.1 Material y equipo requerido***
