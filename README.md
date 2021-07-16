@@ -82,3 +82,8 @@ conclusiones._
 ## 6. CONCLUSIONES
 
 ## 7. BIBLIOGRAFÍA 
+
+_Electrónica Unicrom. (2020, 3 julio). Teorema de superposición. https://unicrom.com/teorema-de-superposicion/_
+
+_DesignSoft TINA. (2020, 2 junio). Teorema de la superposicion. TINA Design Suite. https://www.tina.com/es/superposition-theorem/_
+
