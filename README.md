@@ -97,7 +97,7 @@ _Intensidad total_
 
 ![image](https://user-images.githubusercontent.com/85259801/125957411-1068d573-adce-43b4-8cbb-1a81284e10fc.png)
 
-![image](https://user-images.githubusercontent.com/85259801/125957514-e728ee83-9fb2-475b-998f-b8e63b4039d0.png)
+![image](https://user-images.githubusercontent.com/85728185/125994226-7680f931-bde6-4ee1-9039-76461a25cb0a.png)
 
 _Elimino voltaje de 12V_
 
